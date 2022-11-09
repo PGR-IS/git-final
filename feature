@@ -1,3 +1,3 @@
-good ?
+good .
 happy ?
 Sad ?
